@@ -1,4 +1,4 @@
 .vscode
 * 
-*!.c
-*!.cpp
+!*.c
+!*.cpp
